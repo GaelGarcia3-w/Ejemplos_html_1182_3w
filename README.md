@@ -20,6 +20,32 @@ Edgar Gael Garcia Camacho 3-W
 
 ![image](https://github.com/user-attachments/assets/63a20126-fb10-42ca-bf50-b84aa46f7753)
 
+# Ejemplo #2
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Pollos</title>
+</head>
+<body>
+
+<h1>Pollos en venta.</h1>
+<p>Los mejores pollos.</p>
+Los
+Super
+Pollos
+<h1>
+polleria
+</h1>
+<p>
+Pollos muy buenos
+</p>
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/5d54974c-a56a-4ad2-95db-eb1b607bcccd)
+
+![image](https://github.com/user-attachments/assets/468002ee-437c-4959-b057-9178b1b6a616)
+
 
 # Ejemplo #3
 <!DOCTYPE html>
@@ -114,5 +140,24 @@ Super pollos.
 
 ![image](https://github.com/user-attachments/assets/d8a7e645-b79a-439b-ba37-161e118b6e8b)
 
-# Ejemplo #3
+# Ejemplo #5
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body{background-color: burlywood;}
+</style>
+<h2 title="I'm a header" style="color:cornsilk">La polleria mas pollera</h2>
+
+<p title="I'm a tooltip" style="color:cornsilk">Los mejors pollos de la galaxia.</p>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/30ad8535-8ac4-496d-a1df-7db6ea192703)
+
+![image](https://github.com/user-attachments/assets/e7a0f9f6-fc46-4348-ab3c-b06ba4bf7015)
+
+# Ejemplo #6
+
 

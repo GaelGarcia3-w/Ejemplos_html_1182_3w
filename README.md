@@ -40,3 +40,53 @@ body{background-color: rgb(247, 191, 148);}
 
 
 # Ejemplo #2
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Page Title</title>
+
+</head>
+
+<body>
+
+<style>
+
+body{background-color: rgb(247, 191, 148);}
+
+</style>
+
+<h1 style="color: darkred;">Pollos en venta.</h1>
+
+<p style="color:black">Lo mas sabroso.</p>
+
+Pollos
+
+al gusto de usted
+
+los mejores del mundo.
+
+<br>
+
+<br>
+
+<img src="https://static.vecteezy.com/system/resources/thumbnails/017/503/813/small_2x/fried-chicken-restaurant-logo-template-vector.jpg" width="200" >
+
+<h1>
+
+Polleria.
+
+</h1>
+
+<p style="color: darkgoldenrod;">
+
+Super pollos.
+
+</p>
+
+</body>
+
+</html>

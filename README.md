@@ -160,4 +160,22 @@ body{background-color: burlywood;}
 
 # Ejemplo #6
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Pollos hermanos family</h2>
+<p>Pollos de muy buena calidad:</p>
+
+<p style="color:red;">Sabrosos y calentitos.</p>
+<l>&#128515; , &#128515; , &#128515;</l>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/68c0bbc1-f045-45cd-a6ea-8d620d93aa5e)
+
+![image](https://github.com/user-attachments/assets/c4119840-fdb0-4a0a-8fbe-5fa0a2d71663)
+
+
 

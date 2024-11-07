@@ -4,6 +4,25 @@ Edgar Gael Garcia Camacho 3-W
 # Ejemplo #1
 
 <!DOCTYPE html>
+<html>
+<head>
+<title>Page Pollos</title>
+</head>
+<body>
+
+<h1>Pollos en venta.</h1>
+<p>Los mejores pollos.</p>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/e8ace5e3-aca8-4a02-abf8-5e3429de8166)
+
+![image](https://github.com/user-attachments/assets/63a20126-fb10-42ca-bf50-b84aa46f7753)
+
+
+# Ejemplo #3
+<!DOCTYPE html>
 
 <html>
 
@@ -39,7 +58,7 @@ body{background-color: rgb(247, 191, 148);}
 
 
 
-# Ejemplo #2
+# Ejemplo #4
 
 <!DOCTYPE html>
 
@@ -94,3 +113,6 @@ Super pollos.
 ![image](https://github.com/user-attachments/assets/074d5c49-fef3-442c-8ce2-72636cf2ed27)
 
 ![image](https://github.com/user-attachments/assets/d8a7e645-b79a-439b-ba37-161e118b6e8b)
+
+# Ejemplo #3
+

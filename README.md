@@ -177,5 +177,26 @@ body{background-color: burlywood;}
 
 ![image](https://github.com/user-attachments/assets/c4119840-fdb0-4a0a-8fbe-5fa0a2d71663)
 
+# Ejemplo #7
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body{background-color: rgb(255, 43, 43);}
+</style>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS1q7UMd9VlykpIVWnwL4YaqZCZz86rGQ-MQ&s alt="Polleria el campero">
+
+<p style="color:beige">Los pollos naturales del campo. </p>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/59601db7-2695-4783-9191-2ab8c7f27062)
+
+![image](https://github.com/user-attachments/assets/d2f4ac48-73a4-4a00-b9da-1525af9412e6)
+
+
+
 
 

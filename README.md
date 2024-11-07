@@ -35,7 +35,8 @@ body{background-color: rgb(247, 191, 148);}
 
 ![image](https://github.com/user-attachments/assets/777fc533-928a-436a-9459-9a571e51e749)
 
-![image](https://github.com/user-attachments/assets/a5906f7a-4bfa-4bef-8b09-858533dfba2d)
+![image](https://github.com/user-attachments/assets/7190589d-8c1e-449a-9b46-065203b0c003)
+
 
 
 # Ejemplo #2

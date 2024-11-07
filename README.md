@@ -90,3 +90,7 @@ Super pollos.
 </body>
 
 </html>
+
+![image](https://github.com/user-attachments/assets/074d5c49-fef3-442c-8ce2-72636cf2ed27)
+
+![image](https://github.com/user-attachments/assets/d8a7e645-b79a-439b-ba37-161e118b6e8b)
